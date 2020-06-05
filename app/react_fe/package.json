@@ -34,7 +34,7 @@
     "jquery": "^3.3.1",
     "lodash": "^4.17.5",
     "node-jsx": "^0.13.3",
-    "npm": "^5.7.1",
+    "npm": "^6.13.4",
     "object-assign": "4.1.1",
     "popper": "^1.0.1",
     "postcss-flexbugs-fixes": "3.2.0",
