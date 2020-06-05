@@ -1,0 +1,6 @@
+{
+  "app_name" : "CSC302 App - Test",
+  "env" : "test",
+  "db" : "mongodb://localhost/testdb",
+  "jwtPrivateKey": "csc302-key"
+}

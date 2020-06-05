@@ -1,0 +1,6 @@
+{
+  "app_name" : "CSC302 App - Default",
+  "env" : "",
+  "jwtPrivateKey": "",
+  "db" : ""
+}

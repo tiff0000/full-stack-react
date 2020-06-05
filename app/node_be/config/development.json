@@ -1,0 +1,6 @@
+{
+  "app_name" : "CSC302 App - Development",
+  "env" : "dev",
+  "db" : "mongodb://localhost/prod_db",
+  "jwtPrivateKey" : "csc302-key"
+}
